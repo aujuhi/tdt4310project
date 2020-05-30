@@ -15,7 +15,7 @@ LGBT-community
 
 ### Getting Started
 
-###Installation
+#### Installation
 
 pip install --user --requirement requirements.txt
 
