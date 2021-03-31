@@ -1,9 +1,6 @@
 # Intelligent Text Analytics and Language Understanding (TDT4310) - Final Project
 ## Lexicon based analysis of topic related word usage 
 
-Anke Unger
-ankeju@stud.ntnu.no
-
 ### About
 This repository contains tools to analyse the word usage of articles related to the corona crisis and the
 LGBT-community  
